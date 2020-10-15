@@ -26,10 +26,10 @@
 
 <h3>1. API для аутентификации:</h3>
 
-<code><p>POST /auth/user HTTP/1.1<br>
-Host: https://tager.dev.ozitag.com/api<br>
-Accept: application/json<br>
-Content-Type: application/json</p></code>
+> <code>POST /auth/user HTTP/1.1<br>
+> Host: https://tager.dev.ozitag.com/api<br>
+> Accept: application/json<br>
+> Content-Type: application/json</code>
 
 ```json
 {
