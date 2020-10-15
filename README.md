@@ -53,10 +53,10 @@
 
 <h3>2. API для выхода:</h3>
 
-<code>POST /user/profile/logout HTTP/1.1<br>
-Host: https://tager.dev.ozitag.com/api<br>
-Accept: application/json<br>
-Authorization: Bearer {access_token}</code>
+    POST /user/profile/logout HTTP/1.1
+    Host: https://tager.dev.ozitag.com/api
+    Accept: application/json
+    Authorization: Bearer {access_token}
 
 <p>Пример ответа:</p>
 
@@ -68,10 +68,10 @@ Authorization: Bearer {access_token}</code>
 
 <h3>3. API для получения профиля авторизованного юзера:</h3>
 
-<code>GET /user/profile HTTP/1.1<br>
-Host: https://tager.dev.ozitag.com/api<br>
-Accept: application/<br>
-Authorization: Bearer {access_token}</code>
+    GET /user/profile HTTP/1.1
+    Host: https://tager.dev.ozitag.com/api
+    Accept: application/
+    Authorization: Bearer {access_token}
 
 <p>Пример ответа:</p>
 
