@@ -11,6 +11,10 @@
 <ul>
   <li>Typescript</li>
   <li>React.js</li>
+  <li>Formik</li>
+  <li>React Spectrum</li>
+  <li>Redux</li>
+  <li>Redux Saga</li>
 </ul>
 
 <h3>Описание:</h3>
